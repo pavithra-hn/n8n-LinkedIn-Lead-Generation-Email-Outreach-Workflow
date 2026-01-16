@@ -169,13 +169,5 @@ Due to LinkedIn platform restrictions on direct automation, this workflow uses a
 - 3-second wait between Apollo.io API calls
 - Gmail: ~500 emails/day for free accounts
 
----
 
-## � Author
 
-**Pavithra H N**  
-Email: pavithrahn56@gmail.com
-
----
-
-*Built with n8n Cloud Platform | January 2026*
