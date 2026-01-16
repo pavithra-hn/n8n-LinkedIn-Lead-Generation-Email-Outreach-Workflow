@@ -1,0 +1,14 @@
+# Ignore PDF and HTML files (for HR submission only)
+*.pdf
+*.html
+
+# Original assignment PDF
+n8n assignment (2).pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
